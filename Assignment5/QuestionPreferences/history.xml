@@ -1,0 +1,109 @@
+﻿<questions>
+	<question type="SingleChoice">
+		<text>У якому році Україна стала незалежною?</text>
+		<option>1990</option>
+		<option>1991</option>
+		<option>1992</option>
+		<correct>1</correct>
+	</question>
+	<question type="SingleChoice">
+		<text>Хто був першим президентом незалежної України?</text>
+		<option>Леонід Кравчук</option>
+		<option>Віктор Ющенко</option>
+		<option>Леонід Кучма</option>
+		<correct>0</correct>
+	</question>
+	<question type="SingleChoice">
+		<text>Яка держава першою запустила людину у космос?</text>
+		<option>США</option>
+		<option>СРСР</option>
+		<option>Китай</option>
+		<correct>1</correct>
+	</question>
+	<question type="SingleChoice">
+		<text>Яке місто було столицею Київської Русі?</text>
+		<option>Чернігів</option>
+		<option>Київ</option>
+		<option>Львів</option>
+		<correct>1</correct>
+	</question>
+	<question type="SingleChoice">
+		<text>Рік початку Другої світової війни:</text>
+		<option>1939</option>
+		<option>1941</option>
+		<option>1945</option>
+		<correct>0</correct>
+	</question>
+	<question type="MultipleChoice">
+		<text>Які країни входили до складу СРСР?</text>
+		<option>Україна</option>
+		<option>Білорусь</option>
+		<option>Німеччина</option>
+		<option>Литва</option>
+		<option>Польща</option>
+		<correct>0</correct>
+		<correct>1</correct>
+		<correct>3</correct>
+	</question>
+	<question type="MultipleChoice">
+		<text>Які події відбулись у 20 столітті?</text>
+		<option>Друга світова війна</option>
+		<option>Відкриття Америки</option>
+		<option>Політ Гагаріна в космос</option>
+		<option>Падіння Берлінської стіни</option>
+		<correct>0</correct>
+		<correct>2</correct>
+		<correct>3</correct>
+	</question>
+	<question type="MultipleChoice">
+		<text>Які реформатори діяли у Франції?</text>
+		<option>Наполеон Бонапарт</option>
+		<option>Людовик XIV</option>
+		<option>Жанна д'Арк</option>
+		<option>Шарль де Голль</option>
+		<correct>0</correct>
+		<correct>3</correct>
+	</question>
+	<question type="MultipleChoice">
+		<text>Виберіть стародавні цивілізації:</text>
+		<option>Месопотамія</option>
+		<option>США</option>
+		<option>Єгипет</option>
+		<option>Канада</option>
+		<option>Греція</option>
+		<correct>0</correct>
+		<correct>2</correct>
+		<correct>4</correct>
+	</question>
+	<question type="MultipleChoice">
+		<text>Які країни були союзниками у Першій світовій війні?</text>
+		<option>Велика Британія</option>
+		<option>Німеччина</option>
+		<option>Франція</option>
+		<option>Росія</option>
+		<option>Австро-Угорщина</option>
+		<correct>0</correct>
+		<correct>2</correct>
+		<correct>3</correct>
+	</question>
+	<question type="Text">
+		<text>Хто написав "Заповіт"?</text>
+		<correct>Тарас Шевченко</correct>
+	</question>
+	<question type="Text">
+		<text>Назвіть місто, де було підписано Магдебурзьке право вперше в Україні.</text>
+		<correct>Київ</correct>
+	</question>
+	<question type="Text">
+		<text>Який документ проголосив незалежність США?</text>
+		<correct>Декларація незалежності</correct>
+	</question>
+	<question type="Text">
+		<text>Коли завершилася Друга світова війна?</text>
+		<correct>1945</correct>
+	</question>
+	<question type="Text">
+		<text>Назвіть рік падіння Берлінської стіни.</text>
+		<correct>1989</correct>
+	</question>
+</questions>

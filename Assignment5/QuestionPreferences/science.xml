@@ -1,0 +1,113 @@
+﻿<questions>
+	<question type="SingleChoice">
+		<text>Яка формула води?</text>
+		<option>CO2</option>
+		<option>H2O</option>
+		<option>O2</option>
+		<correct>1</correct>
+	</question>
+	<question type="SingleChoice">
+		<text>Яка планета найближча до Сонця?</text>
+		<option>Земля</option>
+		<option>Меркурій</option>
+		<option>Марс</option>
+		<correct>1</correct>
+	</question>
+	<question type="SingleChoice">
+		<text>Який газ найбільше міститься в атмосфері Землі?</text>
+		<option>Кисень</option>
+		<option>Азот</option>
+		<option>Вуглекислий газ</option>
+		<correct>1</correct>
+	</question>
+	<question type="SingleChoice">
+		<text>Яка найменша частинка речовини?</text>
+		<option>Атом</option>
+		<option>Молекула</option>
+		<option>Клітина</option>
+		<correct>0</correct>
+	</question>
+	<question type="SingleChoice">
+		<text>Який орган людського тіла найбільший?</text>
+		<option>Печінка</option>
+		<option>Шкіра</option>
+		<option>Серце</option>
+		<correct>1</correct>
+	</question>
+	<question type="MultipleChoice">
+		<text>Які з перелічених тіл — планети Сонячної системи?</text>
+		<option>Венера</option>
+		<option>Сіріус</option>
+		<option>Сатурн</option>
+		<option>Плутон</option>
+		<option>Марс</option>
+		<correct>0</correct>
+		<correct>2</correct>
+		<correct>4</correct>
+	</question>
+	<question type="MultipleChoice">
+		<text>Які з перелічених речовин є металами?</text>
+		<option>Золото</option>
+		<option>Срібло</option>
+		<option>Кремній</option>
+		<option>Мідь</option>
+		<option>Вуглець</option>
+		<correct>0</correct>
+		<correct>1</correct>
+		<correct>3</correct>
+	</question>
+	<question type="MultipleChoice">
+		<text>Які органи належать до дихальної системи людини?</text>
+		<option>Легені</option>
+		<option>Серце</option>
+		<option>Бронхи</option>
+		<option>Печінка</option>
+		<option>Трахея</option>
+		<correct>0</correct>
+		<correct>2</correct>
+		<correct>4</correct>
+	</question>
+	<question type="MultipleChoice">
+		<text>Які стани речовини існують у природі?</text>
+		<option>Газоподібний</option>
+		<option>Твердий</option>
+		<option>Плазма</option>
+		<option>Рідкий</option>
+		<option>Пластик</option>
+		<correct>0</correct>
+		<correct>1</correct>
+		<correct>2</correct>
+		<correct>3</correct>
+	</question>
+	<question type="MultipleChoice">
+		<text>Які з перелічених явищ є фізичними?</text>
+		<option>Кипіння води</option>
+		<option>Гниття листя</option>
+		<option>Танення льоду</option>
+		<option>Згорання паперу</option>
+		<option>Випаровування спирту</option>
+		<correct>0</correct>
+		<correct>2</correct>
+		<correct>4</correct>
+	</question>
+	<question type="Text">
+		<text>Який метал найкраще проводить електричний струм?</text>
+		<correct>Срібло</correct>
+	</question>
+	<question type="Text">
+		<text>Яка швидкість світла у вакуумі (км/с)?</text>
+		<correct>299792</correct>
+	</question>
+	<question type="Text">
+		<text>Який елемент має символ "Fe"?</text>
+		<correct>Залізо</correct>
+	</question>
+	<question type="Text">
+		<text>Як називається процес утворення рослинами кисню?</text>
+		<correct>Фотосинтез</correct>
+	</question>
+	<question type="Text">
+		<text>Який організм є одноклітинним?</text>
+		<correct>Амеба</correct>
+	</question>
+</questions>

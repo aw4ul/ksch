@@ -1,0 +1,109 @@
+﻿<questions>
+	<question type="SingleChoice">
+		<text>Столиця Франції?</text>
+		<option>Лондон</option>
+		<option>Париж</option>
+		<option>Берлін</option>
+		<correct>1</correct>
+	</question>
+	<question type="SingleChoice">
+		<text>Яка річка найдовша у світі?</text>
+		<option>Амазонка</option>
+		<option>Дунай</option>
+		<option>Ніл</option>
+		<correct>2</correct>
+	</question>
+	<question type="SingleChoice">
+		<text>Де знаходиться гора Еверест?</text>
+		<option>Індія</option>
+		<option>Китай</option>
+		<option>Непал</option>
+		<correct>2</correct>
+	</question>
+	<question type="SingleChoice">
+		<text>Який материк найменший?</text>
+		<option>Австралія</option>
+		<option>Європа</option>
+		<option>Південна Америка</option>
+		<correct>0</correct>
+	</question>
+	<question type="SingleChoice">
+		<text>Яке місто є столицею Японії?</text>
+		<option>Осака</option>
+		<option>Токіо</option>
+		<option>Кіото</option>
+		<correct>1</correct>
+	</question>
+	<question type="MultipleChoice">
+		<text>Які країни мають вихід до Середземного моря?</text>
+		<option>Італія</option>
+		<option>Єгипет</option>
+		<option>Польща</option>
+		<option>Іспанія</option>
+		<option>Румунія</option>
+		<correct>0</correct>
+		<correct>1</correct>
+		<correct>3</correct>
+	</question>
+	<question type="MultipleChoice">
+		<text>Які країни розташовані у Північній Америці?</text>
+		<option>Канада</option>
+		<option>Мексика</option>
+		<option>Бразилія</option>
+		<option>США</option>
+		<option>Іспанія</option>
+		<correct>0</correct>
+		<correct>1</correct>
+		<correct>3</correct>
+	</question>
+	<question type="MultipleChoice">
+		<text>Виберіть африканські країни:</text>
+		<option>Кенія</option>
+		<option>Аргентина</option>
+		<option>Нігерія</option>
+		<option>Єгипет</option>
+		<correct>0</correct>
+		<correct>2</correct>
+		<correct>3</correct>
+	</question>
+	<question type="MultipleChoice">
+		<text>Які з цих міст є столицями?</text>
+		<option>Берлін</option>
+		<option>Ліон</option>
+		<option>Париж</option>
+		<option>Мадрид</option>
+		<option>Барселона</option>
+		<correct>0</correct>
+		<correct>2</correct>
+		<correct>3</correct>
+	</question>
+	<question type="MultipleChoice">
+		<text>Які моря омивають Україну?</text>
+		<option>Азовське</option>
+		<option>Чорне</option>
+		<option>Каспійське</option>
+		<option>Середземне</option>
+		<correct>0</correct>
+		<correct>1</correct>
+	</question>
+	<question type="Text">
+		<text>Яка найбільша країна світу за площею?</text>
+		<correct>Росія</correct>
+	</question>
+	<question type="Text">
+		<text>Назвіть столицю Канади.</text>
+		<correct>Оттава</correct>
+	</question>
+	<question type="Text">
+		<text>Який океан є найбільшим на планеті?</text>
+		<correct>Тихий</correct>
+	</question>
+	<question type="Text">
+		<text>Назвіть найвищу гору світу.</text>
+		<correct>Еверест</correct>
+	</question>
+	<question type="Text">
+		<text>Який материк є найхолоднішим?</text>
+		<correct>Антарктида</correct>
+	</question>
+</questions>
